@@ -1,8 +1,6 @@
 # Python <!-- omit in toc -->
 
-Genel python çalışmalarım.
-
-> Çalışırken aldığım notlara [buraya](kaynaklar/genel_notlar.pdf) tıklayarak ulaşabilirsin.
+Genel python çalışmalarım, oluşturduğum ek notlara [buraya](kaynaklar/Kendi%20Notlar%C4%B1m%20~%20SDC.pdf) tıklayarak ulaşabilirsin.
 
 ## İçerikler <!-- omit in toc -->
 
