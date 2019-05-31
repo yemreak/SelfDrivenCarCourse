@@ -2,6 +2,8 @@
 
 Genel python çalışmalarım, oluşturduğum ek notlara [buraya](kaynaklar/Kendi%20Notlar%C4%B1m%20~%20SDC.pdf) tıklayarak ulaşabilirsin.
 
+> Microsoft ML cheat sheet için [buraya](kaynaklar%2Fmicrosoft-machine-learning-algorithm-cheat-sheet-v7.pdf) bakabilirsin.
+
 ## İçerikler <!-- omit in toc -->
 
 - [Temel Notlar](#temel-notlar)
