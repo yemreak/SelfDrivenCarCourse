@@ -1,8 +1,9 @@
 # Python <!-- omit in toc -->
 
-Genel python çalışmalarım, oluşturduğum ek notlara [buraya](kaynaklar/Kendi%20Notlar%C4%B1m%20~%20SDC.pdf) tıklayarak ulaşabilirsin.
+[The Complete Self-Driving Car Course - Applied Deep Learning 🚗](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/) kursu üzerindeki çalışmalarımı temel almaktadır.
 
-> Microsoft ML cheat sheet için [buraya](kaynaklar%2Fmicrosoft-machine-learning-algorithm-cheat-sheet-v7.pdf) bakabilirsin.
+- Genel python çalışmalarım, oluşturduğum ek notlara [buraya](kaynaklar/Kendi%20Notlar%C4%B1m%20~%20SDC.pdf) tıklayarak ulaşabilirsin.
+- Microsoft ML cheat sheet için [buraya](kaynaklar%2Fmicrosoft-machine-learning-algorithm-cheat-sheet-v7.pdf) bakabilirsin.
 
 ## İçerikler <!-- omit in toc -->
 
