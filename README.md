@@ -1,4 +1,4 @@
-# Python <!-- omit in toc -->
+# Self Driven Car Course <!-- omit in toc -->
 
 [The Complete Self-Driving Car Course - Applied Deep Learning 🚗](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/) kursu üzerindeki çalışmalarımı temel almaktadır.
 
