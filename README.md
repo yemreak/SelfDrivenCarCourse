@@ -1,11 +1,11 @@
-# Self Driven Car Course <!-- omit in toc -->
+# 🚗 YSelf Driven Car Course <!-- omit in toc -->
 
 [The Complete Self-Driving Car Course - Applied Deep Learning 🚗](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/) kursu üzerindeki çalışmalarımı temel almaktadır.
 
 - Genel python çalışmalarım, oluşturduğum ek notlara [buraya](kaynaklar/Kendi%20Notlar%C4%B1m%20~%20SDC.pdf) tıklayarak ulaşabilirsin.
 - Microsoft ML cheat sheet için [buraya](kaynaklar%2Fmicrosoft-machine-learning-algorithm-cheat-sheet-v7.pdf) bakabilirsin.
 
-## İçerikler <!-- omit in toc -->
+## 📋 İçerikler <!-- omit in toc -->
 
 - [Temel Notlar](#temel-notlar)
   - [Notebook (.ipynb) dosyalarını açmak için](#notebook-ipynb-dosyalar%C4%B1n%C4%B1-a%C3%A7mak-i%C3%A7in)
